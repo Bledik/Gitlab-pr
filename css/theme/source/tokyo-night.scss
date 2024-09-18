@@ -66,6 +66,10 @@ $heading4Size: 1em;
 .reveal h1 {
   color: $heading1Color;
 }
+hr {
+  background-color: $heading1Color;  
+  border-color: $heading1Color;
+}
 
 .reveal h2 {
   color: $heading2Color;
